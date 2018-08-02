@@ -1,0 +1,9 @@
+.DS_Store
+npm-debug.log*
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
